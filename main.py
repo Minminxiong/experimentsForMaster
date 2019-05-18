@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Mar 21 13:02:08 2019
-
+只通过deepwalk算法提取网络向量特征
 @author: XMM
 """
 
